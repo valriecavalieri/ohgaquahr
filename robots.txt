@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahshaabaim.besideriver.com/sitemap.xml
